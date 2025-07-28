@@ -2,7 +2,7 @@
 
 Este es un portafolio personal diseñado para destacar habilidades técnicas, proyectos realizados y experiencia profesional como desarrollador web. Está construido con las últimas tecnologías modernas: **React**, **TypeScript**, **Tailwind CSS** y **Vite**.
 
-![Preview](./src/assets/img/javi%20gonzalez%20portafolio.jpg)
+![Preview](./src/assets/img/Fj%20Icono.png)
 
 ## 🚀 Tecnologías utilizadas
 
