@@ -13,33 +13,6 @@ export const About: React.FC = () => {
     { name: 'Mobile Development', level: 80 },
   ];
 
-  const experience = [
-    {
-      year: '2024',
-      title: 'Senior Full-Stack Developer',
-      company: 'TechCorp Solutions',
-      description: 'Liderando el desarrollo de aplicaciones web complejas y mentoring del equipo junior.'
-    },
-    {
-      year: '2022',
-      title: 'Full-Stack Developer & UX Designer',
-      company: 'StartupXYZ',
-      description: 'Desarrollo completo de producto desde cero, incluyendo investigación UX y arquitectura técnica.'
-    },
-    {
-      year: '2020',
-      title: 'Frontend Developer',
-      company: 'Digital Agency',
-      description: 'Creación de interfaces modernas y responsive para clientes de diversos sectores.'
-    },
-    {
-      year: '2019',
-      title: 'Junior Developer',
-      company: 'CodeBootcamp',
-      description: 'Primeros pasos en desarrollo web, aprendizaje intensivo de tecnologías modernas.'
-    },
-  ];
-
   return (
     <div className="pt-16">
       {/* Hero Section */}
