@@ -137,7 +137,8 @@ export const Projects: React.FC = () => {
               transition={{ duration: 0.3 }}
               className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8"
             >
-              {filteredProjects.map((project, index) => (
+            <h2 className='text-4xl sm:text-5xl font-bold text-gray-900 dark:text-white mb-6'>Proximamante</h2>
+              {/* {filteredProjects.map((project, index) => (
                 <motion.div
                   key={project.id}
                   initial={{ opacity: 0, y: 30 }}
@@ -189,7 +190,7 @@ export const Projects: React.FC = () => {
                     </div>
                   </div>
                 </motion.div>
-              ))}
+              ))} */}
             </motion.div>
           </AnimatePresence>
 
