@@ -2,7 +2,7 @@
 
 Este es un portafolio personal diseñado para destacar habilidades técnicas, proyectos realizados y experiencia profesional como desarrollador web. Está construido con las últimas tecnologías modernas: **React**, **TypeScript**, **Tailwind CSS** y **Vite**.
 
-<img src="./src/assets/img/Fj%20Icono.png" width="450" alt="Vista previa del portafolio" />
+<img src="./src/assets/img/Fj%20Icono.png" width="450" margin="0 0" alt="Vista previa del portafolio" />
 
 ## 🚀 Tecnologías utilizadas
 
