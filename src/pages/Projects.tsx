@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ExternalLink, Github, Filter } from 'lucide-react';
+import { Github, Filter } from 'lucide-react';
 
 export const Projects: React.FC = () => {
   const [activeFilter, setActiveFilter] = useState('all');
